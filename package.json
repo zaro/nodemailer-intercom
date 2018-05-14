@@ -1,0 +1,28 @@
+{
+  "name": "nodemailer-intercom",
+  "version": "0.1.0",
+  "description": "Intercom plugin for nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaro/nodemailer-intercom.git"
+  },
+  "keywords": [
+    "nodemailer",
+    "intercom"
+  ],
+  "author": "Svetlozar Argirov <zarrro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaro/nodemailer-intercom/issues"
+  },
+  "homepage": "https://github.com/zaro/nodemailer-intercom#readme",
+  "dependencies": {
+    "addressparser": "^1.0.1",
+    "debug": "^3.1.0",
+    "intercom-client": "^2.9.4"
+  }
+}
